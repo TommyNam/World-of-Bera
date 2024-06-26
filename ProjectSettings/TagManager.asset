@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 669933117
+    locked: 0
+  - name: Clouds
+    uniqueID: 3165671531
+    locked: 0
+  - name: LandBG
+    uniqueID: 171984007
+    locked: 0
+  - name: MapleMap
+    uniqueID: 56857303
+    locked: 0
+  - name: NPC
+    uniqueID: 2595759655
+    locked: 0
+  - name: Player
+    uniqueID: 2839856003
+    locked: 0
+  - name: Throwables
+    uniqueID: 2031082851
+    locked: 0
+  - name: ETC
+    uniqueID: 3224077995
+    locked: 0
